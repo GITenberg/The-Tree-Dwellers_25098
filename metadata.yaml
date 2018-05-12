@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '28405'
     url: http://www.gutenberg.org/2009/agents/28405
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25098#The-Tree-Dwellers
 gutenberg_issued: '2008-04-18'
 gutenberg_type: Text
 identifiers:
