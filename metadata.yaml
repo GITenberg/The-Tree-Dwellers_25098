@@ -1,0 +1,31 @@
+_repo: The-Tree-Dwellers_25098
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, Howard V.
+    gutenberg_agent_id: '28404'
+    url: http://www.gutenberg.org/2009/agents/28404
+covers:
+- cover_type: archival
+  image_path: 25098-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dopp, Katharine Elizabeth
+    birthdate: 1863
+    gutenberg_agent_id: '28405'
+    url: http://www.gutenberg.org/2009/agents/28405
+description: ''
+gutenberg_issued: '2008-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcc 'GN'
+- !lcsh 'Prehistoric peoples -- Juvenile literature'
+title: The Tree-Dwellers
+url: http://www.gutenberg.org/ebooks/25098
